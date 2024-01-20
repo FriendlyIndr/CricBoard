@@ -1,4 +1,4 @@
-This is a WIN32 Desktop application that can be used to change the scoreboard of a cricket match. It covers all sorts of cases which can occur during a cricket match.
+CricBoard is a WIN32 Desktop application that can be used to change the scoreboard of a cricket match. It covers all sorts of cases which can occur during a cricket match.
 Here is a demo:
 
 
